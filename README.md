@@ -17,4 +17,4 @@ License
 EC Regulation (v.2) from http://ec.europa.eu/growth/tools-databases/cosing/index.cfm?fuseaction=search.results last updated 18/04/2018
 
 Questions? Suggestions? Bugs?
-Maintainers: Syahadah at nurss98@gmail.com and Discord #9522
+Maintainers: Syahadah at sssyahadah@gmail.com and Discord #9522
